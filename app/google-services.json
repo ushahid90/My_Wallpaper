@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "727082542064",
+    "firebase_url": "https://wallpaper-app-b6b6d.firebaseio.com",
+    "project_id": "wallpaper-app-b6b6d",
+    "storage_bucket": "wallpaper-app-b6b6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727082542064:android:a4485f0930dd1c4bbdb335",
+        "android_client_info": {
+          "package_name": "papaya.in.mywallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727082542064-8vvjfjtm15pen3q42kojfpiqadr9m6nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHFrRuro4tr5D9lV12PPHwHT1VZRMgTqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727082542064-8vvjfjtm15pen3q42kojfpiqadr9m6nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
